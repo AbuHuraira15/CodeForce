@@ -1,0 +1,10 @@
+a=int(input())
+b=a//5
+a=a-(b*5)
+c=a//4
+a=a-(c*4)
+d=a//3
+a=a-(d*3)
+e=a//2
+a=a-(e*2)
+print(a+b+c+d+e)
