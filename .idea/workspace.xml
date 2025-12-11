@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17a2ad20-d5e1-4f60-8cba-dddf8f7ce19f" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/Catagory_A/110_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/131_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/230_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/318_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/546_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/59_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_A/977_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_B/158_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_B/230_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catagory_B/492_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/116_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/271_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/41_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/43_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/579_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/677_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/734_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_A/96_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_B/339_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Catagory_B/706_B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Python.04_A.executor": "Run",
     "Python.110_A.executor": "Run",
     "Python.112_A.executor": "Run",
+    "Python.116_A.executor": "Run",
     "Python.118_A.executor": "Run",
     "Python.122_A.executor": "Run",
     "Python.131_A.executor": "Run",
@@ -70,10 +71,14 @@
     "Python.236_A.executor": "Run",
     "Python.263_A.executor": "Run",
     "Python.266_A.executor": "Run",
+    "Python.271_A.executor": "Run",
     "Python.281_A.executor": "Run",
     "Python.282_A.executor": "Run",
     "Python.318_A.executor": "Run",
     "Python.339_A.executor": "Run",
+    "Python.339_B.executor": "Run",
+    "Python.41_A.executor": "Run",
+    "Python.43_A.executor": "Run",
     "Python.479_A.executor": "Run",
     "Python.492_B.executor": "Run",
     "Python.50_A.executor": "Run",
@@ -81,9 +86,13 @@
     "Python.58_A.executor": "Run",
     "Python.59_A.executor": "Run",
     "Python.617_A.executor": "Run",
+    "Python.677_A.executor": "Run",
     "Python.69_A.executor": "Run",
+    "Python.706_B.executor": "Run",
     "Python.71_A.executor": "Run",
+    "Python.734_A.executor": "Run",
     "Python.791_A.executor": "Run",
+    "Python.96_A.executor": "Run",
     "Python.977_A.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -123,6 +132,7 @@
       <workItem from="1765275788778" duration="1113000" />
       <workItem from="1765276920159" duration="8683000" />
       <workItem from="1765369898104" duration="14337000" />
+      <workItem from="1765441733976" duration="9310000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -156,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765285142994</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1765441750819</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765441750819</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +186,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyCF$58_A.coverage" NAME="58_A Coverage Results" MODIFIED="1765284089181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$41_A.coverage" NAME="41_A Coverage Results" MODIFIED="1765443217488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$617_A.coverage" NAME="617_A Coverage Results" MODIFIED="1765278353540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$266_A.coverage" NAME="266_A Coverage Results" MODIFIED="1765279497952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$71_A.coverage" NAME="71_A Coverage Results" MODIFIED="1765192650192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
@@ -176,25 +195,33 @@
     <SUITE FILE_PATH="coverage/PyCF$230_B.coverage" NAME="230_B Coverage Results" MODIFIED="1765381027857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_B" />
     <SUITE FILE_PATH="coverage/PyCF$977_A.coverage" NAME="977_A Coverage Results" MODIFIED="1765373335132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$158_B.coverage" NAME="158_B Coverage Results" MODIFIED="1765378484557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_B" />
+    <SUITE FILE_PATH="coverage/PyCF$677_A.coverage" NAME="677_A Coverage Results" MODIFIED="1765444584569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$59_A.coverage" NAME="59_A Coverage Results" MODIFIED="1765371916513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$734_A.coverage" NAME="734_A Coverage Results" MODIFIED="1765442735251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$263_A.coverage" NAME="263_A Coverage Results" MODIFIED="1765199563223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCF$282_A.coverage" NAME="282_A Coverage Results" MODIFIED="1765193905658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$318_A.coverage" NAME="318_A Coverage Results" MODIFIED="1765375325091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$118_A.coverage" NAME="118_A Coverage Results" MODIFIED="1765281157324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$230_A.coverage" NAME="230_A Coverage Results" MODIFIED="1765387907121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$110_A.coverage" NAME="110_A Coverage Results" MODIFIED="1765374112360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$339_B.coverage" NAME="339_B Coverage Results" MODIFIED="1765449297443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_B" />
     <SUITE FILE_PATH="coverage/PyCF$791_A.coverage" NAME="791_A Coverage Results" MODIFIED="1765277558789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$231_A.coverage" NAME="231_A Coverage Results" MODIFIED="1765193436444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$158_A.coverage" NAME="158_A Coverage Results" MODIFIED="1765197272207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$271_A.coverage" NAME="271_A Coverage Results" MODIFIED="1765446333120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$281_A.coverage" NAME="281_A Coverage Results" MODIFIED="1765277162301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$131_A.coverage" NAME="131_A Coverage Results" MODIFIED="1765379708886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$69_A.coverage" NAME="69_A Coverage Results" MODIFIED="1765282399783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$706_B.coverage" NAME="706_B Coverage Results" MODIFIED="1765451620115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_B" />
     <SUITE FILE_PATH="coverage/PyCF$50_A.coverage" NAME="50_A Coverage Results" MODIFIED="1765198557569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$339_A.coverage" NAME="339_A Coverage Results" MODIFIED="1765276672086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$122_A.coverage" NAME="122_A Coverage Results" MODIFIED="1765284608419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$546_A.coverage" NAME="546_A Coverage Results" MODIFIED="1765371214829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$116_A.coverage" NAME="116_A Coverage Results" MODIFIED="1765445300589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$479_A.coverage" NAME="479_A Coverage Results" MODIFIED="1765285106366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$96_A.coverage" NAME="96_A Coverage Results" MODIFIED="1765442282284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$112_A.coverage" NAME="112_A Coverage Results" MODIFIED="1765200307569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
+    <SUITE FILE_PATH="coverage/PyCF$43_A.coverage" NAME="43_A Coverage Results" MODIFIED="1765447881073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$04_A.coverage" NAME="04_A Coverage Results" MODIFIED="1765192071465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_A" />
     <SUITE FILE_PATH="coverage/PyCF$492_B.coverage" NAME="492_B Coverage Results" MODIFIED="1765389900098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Catagory_B" />
   </component>
